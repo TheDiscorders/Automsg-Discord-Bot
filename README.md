@@ -42,4 +42,4 @@ Note : The variable "channels" in variables.json file is an array, put the links
 * Code is documented if you need to find a precise piece in the code
 
 ## 🙏 Thanks
-Thanks to Firokat for held and ideas on this project
+Thanks to Firokat for help and ideas on this project
