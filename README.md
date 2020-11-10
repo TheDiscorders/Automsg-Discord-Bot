@@ -9,9 +9,9 @@ This project is a **Discord bot** in **[Node JS](https://nodejs.org/)**. His pur
 First you need to download the repository and put all the files in a folder. Then open a console **in this folder** and install the following modules : 
 
 - Install the modules with `npm i`
-    * discord.js
-    * puppeteer
-    * edit-json-file
+    * **[discord.js](https://discord.js.org/#/)**
+    * **[puppeteer](https://www.npmjs.com/package/puppeteer)**
+    * **[edit-json-file](https://www.npmjs.com/package/edit-json-file)**
   
 * Private data
   * email, password and token can be changed in the **config.js**  file
