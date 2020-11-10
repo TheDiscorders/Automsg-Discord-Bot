@@ -29,11 +29,13 @@ Note : The variable "channels" in variables.json file is an array, put the links
 
 ## 👌 Usage
 
+Start the bot by doing `node .` in a terminal in the folder.
+
 * Commands :
-  * **!automsg on** -> _starts chromium and sends messages_
-  * **!automsg off** -> _stops chromium, an error will show in console but wont affect the program_
-  * **!msg set {message}** -> _sets a message or change the previous one_
-  * **!msg p** -> _the bot will send the message setted with '!msg set' in the channel_
+  * `**!automsg on**` -> _starts chromium and sends messages_
+  * `**!automsg off**` -> _stops chromium, an error will show in console but wont affect the program_
+  * `**!msg set {message}**` -> _sets a message or change the previous one_
+  * `**!msg p**` -> _the bot will send the message setted with '!msg set' in the channel_
   
 ## 💡 Features
 
