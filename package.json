@@ -1,0 +1,22 @@
+{
+  "name": "bottest",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "^12.2.0"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "edit-json-file": "^1.5.0",
+    "enmap": "^5.3.1",
+    "puppeteer": "^5.4.1",
+    "puppeteer-extra": "^3.1.15",
+    "puppeteer-extra-plugin-recaptcha": "^3.2.0",
+    "puppeteer-extra-plugin-stealth": "^2.6.5",
+    "user-agents": "^1.0.559"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}

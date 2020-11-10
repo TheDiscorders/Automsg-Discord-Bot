@@ -1,0 +1,42 @@
+Loaded event 'message'
+Loaded event 'ready'
+Loaded command 'automsg'
+Loaded command 'msg'
+Logged in as MP Transmitter#0944!
+[ 10/10/2020 | 20:00:40 ] > Auto messages started ! Loading browser...
+[ 10/10/2020 | 20:00:41 ] > Browser opened !
+[ 10/10/2020 | 20:00:41 ] > Loading discord login page...
+[ 10/10/2020 | 20:00:54 ] > Discord login page loaded !
+[ 10/10/2020 | 20:00:54 ] > Typing email & password...
+[ 10/10/2020 | 20:00:55 ] > Email & password typed ! 
+[ 10/10/2020 | 20:00:55 ] > Login request to discord...
+[ 10/10/2020 | 20:00:58 ] > Logged in to discord !
+[ 10/10/2020 | 20:00:58 ] > Started sending messages, processing...
+[ 10/10/2020 | 20:02:08 ] > Finnished sending messages in the 8 channels !
+[ 10/10/2020 | 20:02:08 ] > Waiting between 00:10:30 and 00:11:00 to relaunch
+[ 10/10/2020 | 20:11:31 ] > --- Resending messages ---
+[ 10/10/2020 | 20:11:31 ] > Started sending messages, processing...
+[ 10/10/2020 | 20:12:09 ] > Message enregistré !
+[ 10/10/2020 | 20:12:33 ] > Finnished sending messages in the 8 channels !
+[ 10/10/2020 | 20:12:33 ] > Waiting between 00:10:30 and 00:11:00 to relaunch
+[ 10/10/2020 | 20:15:15 ] > Message enregistré !
+[ 10/10/2020 | 20:22:21 ] > --- Resending messages ---
+[ 10/10/2020 | 20:22:21 ] > Started sending messages, processing...
+[ 10/10/2020 | 20:23:24 ] > Finnished sending messages in the 8 channels !
+[ 10/10/2020 | 20:23:24 ] > Waiting between 00:10:30 and 00:11:00 to relaunch
+[ 10/10/2020 | 20:33:11 ] > --- Resending messages ---
+[ 10/10/2020 | 20:33:11 ] > Started sending messages, processing...
+[ 10/10/2020 | 20:34:08 ] > Finnished sending messages in the 8 channels !
+[ 10/10/2020 | 20:34:08 ] > Waiting between 00:10:30 and 00:11:00 to relaunch
+[ 10/10/2020 | 20:44:01 ] > --- Resending messages ---
+[ 10/10/2020 | 20:44:01 ] > Started sending messages, processing...
+[ 10/10/2020 | 20:45:06 ] > Finnished sending messages in the 8 channels !
+[ 10/10/2020 | 20:45:06 ] > Waiting between 00:10:30 and 00:11:00 to relaunch
+[ 10/10/2020 | 20:54:51 ] > --- Resending messages ---
+[ 10/10/2020 | 20:54:51 ] > Started sending messages, processing...
+[ 10/10/2020 | 20:55:59 ] > Finnished sending messages in the 8 channels !
+[ 10/10/2020 | 20:55:59 ] > Waiting between 00:10:30 and 00:11:00 to relaunch
+[ 10/10/2020 | 21:05:41 ] > --- Resending messages ---
+[ 10/10/2020 | 21:05:41 ] > Started sending messages, processing...
+[ 10/10/2020 | 21:06:46 ] > Finnished sending messages in the 8 channels !
+[ 10/10/2020 | 21:06:46 ] > Waiting between 00:10:30 and 00:11:00 to relaunch
