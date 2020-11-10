@@ -2,14 +2,9 @@
   "automsg": "on",
   "message": " ```css\n--------------[HAVE]--------------{}--------------[WANT]--------------\n                                  {}\n             [H] 150c             {}         [W] Fennec BP\n             [H] 150cr            {}        [W] Fennec (BP)\n           [H] 150credits         {}      [W] Fennec BluePrint\n[====================================================================]\n    [H] Stiker Interstellar BP    {}            [W] Offer\n            [H] 1 NCE             {}             [W] 200c\n```",
   "channels": [
-    "https://discord.com/channels/346755536747757569/363460545006796800",
-    "https://discord.com/channels/216848402435014657/294836980695433217",
-    "https://discord.com/channels/247628906914512896/249642821047418881",
-    "https://discord.com/channels/223259649967652887/565268325613961226",
-    "https://discord.com/channels/223259649967652887/565266895691972637",
-    "https://discord.com/channels/223259649967652887/565268347185266710",
-    "https://discord.com/channels/756179032542019644/761202756483547186",
-    "https://discord.com/channels/542396270258552843/542409264434642944"
+    "https://link1.com",
+    "https://link2.com",
+    "https://link3.com"
   ],
   "startTime": "[ 10-10-2020 - 20.00.28 ]"
 }
