@@ -2,22 +2,19 @@
 
 ## What is this shit ?
 
-This project is a **discord bot** in **node js**. His purpose is to connect to a discord account using **puppeteer** and post messages at regular intervals in discord channels.
+This project is a **Discord bot** in **[Node JS](https://nodejs.org/)**. His purpose is to connect to a discord account using **[puppeteer](https://www.npmjs.com/package/puppeteer)** and post messages at regular intervals in discord channels.
 
 ## ⛓ Configuration
 
 First you need to download the repository and put all the files in a folder. Then open a console **in this folder** and install the following modules : 
 
-* Modules to install
-  * npm i discord.js
-  * npm i puppeteer
-  * npm i edit-json-file
+- Install the modules with `npm i`
   
 * Private data
-  * email, password and token can be changed in **config file**
-  * channels link to go and write message can be added in **"variables.json" in the storage file**
+  * email, password and token can be changed in the **config.js**  file
+  * channels link to go and write message can be added in **"variables.json"**  in the **storage** folder
   
-Note : The variable "channels" in variables.json file is an array, put the links as strings in it, example :
+Note : In the array **"channels"** in the **variables.json** file, put the links as strings in it, example :
 
 ```JSON
 "channels": [
@@ -39,9 +36,10 @@ Start the bot by doing **`node .`** in a terminal in the folder.
   
 ## 💡 Features
 
-* Clear console with date, hour, minute and second of each actions
-* Text file where you will be able to see all logs
+* Clear dated logs
+* Logs saving in separate files
 * Code is documented if you need to find a precise piece in the code
 
 ## 🙏 Thanks
 Thanks to **Firokat** for help and ideas on this project
+
