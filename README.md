@@ -2,11 +2,11 @@
 
 ## What is this shit ?
 
-This project is a discord bot in node js. His purpose is to connect to a discord account using puppeteer and post messages at regular intervals in discord channels.
+This project is a **discord bot** in **node js**. His purpose is to connect to a discord account using **puppeteer** and post messages at regular intervals in discord channels.
 
 ## ⛓ Configuration
 
-First you need to download the repository and put all the files in a folder. Then open a console in this folder and install the following modules : 
+First you need to download the repository and put all the files in a folder. Then open a console **in this folder** and install the following modules : 
 
 * Modules to install
   * npm i discord.js
@@ -14,8 +14,8 @@ First you need to download the repository and put all the files in a folder. The
   * npm i edit-json-file
   
 * Private data
-  * email, password and token can be changed in config file
-  * channels link to go and write message can be added in "variables.json" in the storage file
+  * email, password and token can be changed in **config file**
+  * channels link to go and write message can be added in **"variables.json" in the storage file**
   
 Note : The variable "channels" in variables.json file is an array, put the links as strings in it, example :
 
@@ -29,7 +29,7 @@ Note : The variable "channels" in variables.json file is an array, put the links
 
 ## 👌 Usage
 
-Start the bot by doing `node .` in a terminal in the folder.
+Start the bot by doing **`node .`** in a terminal in the folder.
 
 * Commands :
   * **`!automsg on`** -> _starts chromium and sends messages_
@@ -44,4 +44,4 @@ Start the bot by doing `node .` in a terminal in the folder.
 * Code is documented if you need to find a precise piece in the code
 
 ## 🙏 Thanks
-Thanks to Firokat for help and ideas on this project
+Thanks to **Firokat** for help and ideas on this project
