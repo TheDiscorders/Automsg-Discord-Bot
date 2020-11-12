@@ -45,3 +45,5 @@ Start the bot by doing **`node .`** in a terminal in the folder.
 
 ## 🙏 Thanks
 Thanks to **Firokat** for help and ideas on this project
+
+test
